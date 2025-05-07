@@ -33,7 +33,7 @@ CEO
 
 📦 Local Development
 1. Clone the repo
-git clone https://github.com/your-username/hierarchy-ui.git
+git clone https://github.com/vatsal2412/Hierarchy-UI-Employee-Management-System.git
 cd hierarchy-ui
 2. Install dependencies
 npm install

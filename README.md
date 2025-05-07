@@ -1,5 +1,9 @@
 📚 Features
 👥 Hierarchical Structure
+
+
+
+
 CEO
 ├── Head of Staff/HR
 │ ├── Teams (with Leaders & Members)

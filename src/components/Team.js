@@ -10,7 +10,7 @@ onRemove,
 onMove,
 onUpdateEmployee,
 }) => {
-// Drag and drop handling for moving employees
+
 const handleDrop = e => {
 e.preventDefault();
 const draggedEmployeeId = e.dataTransfer.getData('drag-employee-id');

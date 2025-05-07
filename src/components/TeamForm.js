@@ -10,7 +10,7 @@ if (!name) {
 alert('Team name required');
 return;
 }
-// Prevent duplicate team names
+
 const exists = teams.find(t => t.name.toLowerCase() === name.toLowerCase());
 if (exists) {
 alert('Team name already exists');
